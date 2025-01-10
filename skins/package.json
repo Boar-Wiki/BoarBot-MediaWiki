@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "mediawiki-skins-cli": "^1.44.0-wmf.6a"
+  }
+}
