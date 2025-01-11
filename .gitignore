@@ -29,13 +29,13 @@ sftp-config.json
 /docs/coverage
 /docs/js
 /docs/latex
-/images/[0-9a-f]
+# /images/[0-9a-f]
 /images/archive
 /images/cache
 /images/deleted
 /images/lockdir
 /images/temp
-/images/thumb
+# /images/thumb
 ## Extension:EasyTimeline
 /images/timeline
 ## Extension:Score
@@ -65,10 +65,10 @@ phpunit.xml
 .phan/local-config.php
 
 # Composer
-/vendor
-/composer.lock
-/composer.local.json
-/composer.phar
+# /vendor
+# /composer.lock
+# /composer.local.json
+# /composer.phar
 
 # Operating systems
 ## Mac OS X
